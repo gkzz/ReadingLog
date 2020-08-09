@@ -101,9 +101,18 @@ In Japanese:
     - Syn.: dependence, reliance
 
 
-
 ## 1-4. The related materials
 
 - The following is an example of using software to solve the non-software engineering problem of measuring team activity.
 
   -  [開発チームの生産性・健全性を客観的に知るためにリポジトリ履歴から機械的に可視化するツールを作った](https://qiita.com/hirokidaichi/items/ceece347f808cc9d14dd)
+
+
+## 1-5. Summary of #event_20200809 on discord
+
+- GoogleのSoftware Engineeringの考え方
+- 仕様に依存した処理を書いてしまうあるある話
+- 企業とOSSとの関係性
+- Beyoncéの歌詞
+
+<img src="/logs/template/discord/20200809/discord-20200809.png" alt="discord-20200809" style="max-width:5%;">
