@@ -111,6 +111,9 @@ In Japanese:
 ## 1-5. Summary of #event_20200809 on discord
 
 - GoogleのSoftware Engineeringの考え方
+  > Our point is not that software engineering is superior, merely that these represent two different problem domains with distinct constraints, values, and best practices. Rather, the value in pointing out this difference comes from recognizing that some tools are great in one domain but not in the other.
+  >
+  > Programming is the immediate act of producing code. Software engineering is the set of policies, practices, and tools that are necessary to make that code useful for as long as it needs to be used and allowing collaboration across a team.
 - 仕様に依存した処理を書いてしまうあるある話
 - 企業とOSSとの関係性
 - Beyoncéの歌詞
