@@ -9,12 +9,12 @@ See the following, if you want to see the memos of other chapters.
 ## 2-1. Overview
 
 My summary:
-- The following is the relationship of trade-offs:
-  - To work without reciving reviews.
-  - To get reviews and cooperation, when you start working.
+- The following is the relationship of `trade-offs`:
+  - **To work without reciving reviews.**
+  - **To get reviews and cooperation, when you start working**
 
 - Be kept in mind the following:
-  - To accept each other's way of working.
+  - **To accept each other's way of working.**
   - To think about how to work efficiently. Even just a little.
 
 ### 2-1-1. Why you intend to hide your work? 
