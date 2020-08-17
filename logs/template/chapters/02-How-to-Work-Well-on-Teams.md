@@ -3,60 +3,56 @@
 Author:
   - [gkz](https://twitter.com/gkzvoice)
 
+See the following, if you want to see the memos of other chapters.
+  - [sample-software-engineering-at-google.md ](logs/template/sample-software-engineering-at-google.md)
+
 ## 2-1. Overview
-- `The book explains as follows:
 
-  > The critical idea in this chapter is that `software development is a team endeavor`. And to succeed on an engineering team—or in any other creative collaboration—`you need to reorganize your behaviors around the core principles of humility, respect, and trust`.
+My summary:
+- The following is the relationship of trade-offs:
+  - To work without reciving reviews.
+  - To get reviews and cooperation, when you start working.
 
+- Be kept in mind the following:
+  - To accept each other's way of working.
+  - To think about how to work efficiently. Even just a little.
 
-### 2-1-1. Be afraid of to be criticized
-
-Help Me Hide My Code
-
->insecurity is just a part of human nature—nobody likes to be criticized, especially for things that aren’t finished.
-
-
-### What I've learned
-
-> if you are a genius, it turns out that that’s not enough. `Geniuses still make mistakes, and having brilliant ideas and elite programming skills doesn’t guarantee that your software will be a hit.` 
-
-
-👀
-> The vast majority of the work at Google (and at most companies!) doesn’t require genius-level intellect, but 100% of the work requires a minimal level of social skills.
-
-
-### 2-1-x. Why your intend to hide your work? 
-
+### 2-1-1. Why your intend to hide your work? 
 
 - Not to regard you as not doing a good job before your work is done
 
 - Not to take your ideas away from you before their complete their work
 
 
-### 2-1-x. Disadvantages to hide what your work like
+### 2-1-2. Disadvantages to hide what your work like
 
 - less time to get collaboration to recieve reviews
 
 - Difficult to get reviews and cooperation early on.
 
-### 2-1-x. Advantages to share what your work like
+### 2-1-2. Advantages to share what your work like
 
 - The more feedback you get early on, the less risk you take
 
-My opinion:
-```
-The number of mistakes left is more and they are more diffuicult to correct, as time goes on
 
-When you proceed without sharing your work, the number of bugs are more and moreover bugs are more difficult to correct.
-```
+## 2-2. What I've been thinking
 
+### 2-2-1. Working while reciving reviews v.s. without it
 
-在宅勤務の環境下でマイクロマネジメントされずに快適部下生活を送るコツ
-https://note.com/ckw/n/n9fca0f95ce1e
+- I prefer the former
+  - When you proceed without sharing your work, the number of bugs are more and moreover bugs are more difficult to correct.
+  - However, I sometimes work at private until the work is done to some extent.
+  - The reason is the same as what this chapter says.
 
+- Working from home makes the following more difficult.
+  - To share your work progress and some troubles.
 
-リモートワーク進まないのは上司の無理解。“見えない”部下に不安な上司と企業の本音
-https://www.businessinsider.jp/post-184761
+### 2-2-2. Is Micro Management a necessary evil?
 
+- I think it's unavoidable, what do you think?
+
+- The followings may be useful
+  - [在宅勤務の環境下でマイクロマネジメントされずに快適部下生活を送るコツ](https://note.com/ckw/n/n9fca0f95ce1e)
+  > 決めた締め切りは絶対守る（できれば早めに仕上げる）
 
 
