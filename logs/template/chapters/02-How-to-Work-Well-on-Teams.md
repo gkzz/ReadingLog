@@ -17,7 +17,7 @@ My summary:
   - To accept each other's way of working.
   - To think about how to work efficiently. Even just a little.
 
-### 2-1-1. Why your intend to hide your work? 
+### 2-1-1. Why you intend to hide your work? 
 
 - Not to regard you as not doing a good job before your work is done
 
@@ -28,7 +28,7 @@ My summary:
 
 - less time to get collaboration to recieve reviews
 
-- Difficult to get reviews and cooperation early on.
+- Difficulty to get reviews and cooperation early on.
 
 ### 2-1-2. Advantages to share what your work like
 
