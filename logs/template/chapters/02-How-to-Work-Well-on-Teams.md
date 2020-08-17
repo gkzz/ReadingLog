@@ -30,7 +30,7 @@ My summary:
 
 - Difficulty to get reviews and cooperation early on.
 
-### 2-1-2. Advantages to share what your work like
+### 2-1-3. Advantages to share what your work like
 
 - The more feedback you get early on, the less risk you take
 
