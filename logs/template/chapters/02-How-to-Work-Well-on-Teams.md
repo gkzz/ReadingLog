@@ -26,7 +26,7 @@ My summary:
 
 ### 2-1-2. Disadvantages to hide what your work like
 
-- less time to get collaboration to recieve reviews
+- Less time to get collaboration to recieve reviews
 
 - Difficulty to get reviews and cooperation early on.
 
