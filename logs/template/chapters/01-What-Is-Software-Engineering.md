@@ -111,7 +111,7 @@ In Japanese:
   -  [開発チームの生産性・健全性を客観的に知るためにリポジトリ履歴から機械的に可視化するツールを作った](https://qiita.com/hirokidaichi/items/ceece347f808cc9d14dd)
 
 
-## 1-5. Summary of #event_20200809 on discord
+## 1-5. A summary of #event_20200809 on discord
 
 - GoogleのSoftware Engineeringの考え方
   > Our point is not that software engineering is superior, merely that these represent two different problem domains with distinct constraints, values, and best practices. Rather, the value in pointing out this difference comes from recognizing that some tools are great in one domain but not in the other.
