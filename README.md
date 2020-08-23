@@ -71,7 +71,7 @@ My Twitter ACCT is as follows:
 
 ## License
 
-Copyright (c) 2020 [Ress](https://ress.mit-license.org/2020)
+Copyright (c) 2020 [gkz](https://gkz.mit-license.org/2020)
 
 Licensed under the [MIT license](LICENSE).
 
