@@ -35,7 +35,7 @@ My summary:
 - The more feedback you get early on, the less risk you take
 
 
-## 2-2. What I've been thinking
+## 2-2. What I've been thinking about
 
 ### 2-2-1. Working while reciving reviews v.s. without it
 
