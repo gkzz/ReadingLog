@@ -35,7 +35,7 @@ This book says:
 
   \* Noogler is equals to new Googleer
 
-### 3-2. What impressed me
+## 3-2. What impressed me
 
 - `Chesterton's fence`
   >「フェンスが存在するのならば、そこには何かしらの理由がある」と解説し、この主張から得られる教訓を「そもそもフェンスが設置された理由を理解するまで、フェンスを撤去するな」
@@ -43,10 +43,7 @@ This book says:
   Source: [優れた意思決定を行って間違いを減らす思考法「チェスタトンのフェンス」とは？ - GIGAZINE](https://gigazine.net/news/20200312-chestertons-fence)
 
 
-### 3-3.
-
-
-## 2-3. Notes
+## 3-3. Notes
 
 `relevant`
 
