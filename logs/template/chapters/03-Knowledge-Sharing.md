@@ -70,5 +70,9 @@ This book says:
       - Source: [Definition of assign verb from the Oxford Advanced American Dictionary](https://www.oxfordlearnersdictionaries.com/definition/american_english/assign)
   
 
+## 3-4. A summary of #event_20200906 on discord
+
+![discord-20200906](https://user-images.githubusercontent.com/38461277/92316373-edadb400-f02d-11ea-9331-d236cb33a778.png)
+
 
 

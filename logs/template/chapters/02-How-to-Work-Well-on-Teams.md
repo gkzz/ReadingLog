@@ -77,3 +77,5 @@ My summary:
   - 競合する商品の標準化を推進する場所
   - 技術の家庭裁判所のような
   - cf. [コンテナ運用環境を標準化？ CNCFは何をやろうとしているか](https://www.atmarkit.co.jp/ait/articles/1608/23/news114.html)
+
+![discord-20200823](https://user-images.githubusercontent.com/38461277/92316361-c525ba00-f02d-11ea-9731-ec2516dc0448.png)
