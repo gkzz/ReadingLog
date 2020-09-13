@@ -46,14 +46,12 @@ This book says:
 ## 3-3. Notes
 
 `relevant`
-
 - adj
 - meaning: closely connected or appropriate to what is being done or considered.
   - e.g.: "what small companies need is relevant advice"
   - Syn: pertinent, applicable, apposite, material, apropos, to the point
 
 `synthesize`
-
 - verb
 - meaning: make (something) by synthesis, especially chemically.
   - e.g.: "the drug was first synthesized in 1929"
