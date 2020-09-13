@@ -121,4 +121,5 @@ In Japanese:
 - 企業とOSSとの関係性
 - Beyoncéの歌詞
 
-<img src="/logs/template/discord/20200809/discord-20200809.png" alt="discord-20200809" style="max-width:5%;">
+![discord-20200809](https://user-images.githubusercontent.com/38461277/92316354-ab847280-f02d-11ea-9fd3-d6bbec8552cb.png)
+
