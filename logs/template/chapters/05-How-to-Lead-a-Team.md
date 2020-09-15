@@ -35,12 +35,17 @@ Servant leaders' role:
 
 > The only managing that a servant leader does is to manage both the technical and social health of the team;
 
+### 5-1-4. My summary
 
-#### My opinion
+`The current management style v.s. the previous`
+- The current
+  - Servant Leadership
 
-I'm not in favor of adopting `servant leadership` as a management style.
+- The previous
+  - Quantifying management
+  - like parents
 
-My reason is it is difficulty for servant leaders to play like their juniors.
+
 
 ## 5-2. What impressed me
 
