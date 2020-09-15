@@ -40,8 +40,12 @@ Servant leaders' role:
 
 I'm not in favor of adopting `servant leadership` as a management style.
 
+My reason is it is difficulty for servant leaders to play like their juniors.
+
 ## 5-2. What impressed me
 
+I have the same opinion as the following:
+ 
 > Good managers enable their engineering teams by helping them work well, keeping them focused on proper goals, and insulating them from problems outside the group, all while following the three pillars of humility, trust, and respect.
 
 
