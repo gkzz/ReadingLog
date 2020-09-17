@@ -9,7 +9,7 @@ See the following, if you want to see the memos of other chapters.
 ## 5-1. Overview
 
 ### 5-1-1. Three types of engineering team's leader
-- an engineering eanager
+- an engineering manager
 > `responsible for the performance, productivity, and happiness of every person on their team`—including their tech lead—while still making sure that the needs of the business are met by the product for which they are responsible.
 
 -  tech lead (TL)
@@ -40,6 +40,7 @@ Servant leaders' role:
 `The current management style v.s. the previous`
 - The current
   - Servant Leadership
+  - like cheerleaders
 
 - The previous
   - Quantifying management
