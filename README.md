@@ -24,28 +24,12 @@ A. All you have to do is just three things:
 - Write notes to it
 ```
 
-[template.md](logs/template/template.md)
+[template.md](template.md)
 
 ## Titles
 
-- [[SAMPLE]Software Engineering at Google](logs/template/sample-software-engineering-at-google.md)
+- [[SAMPLE]Software Engineering at Google](software-engineering-at-google/sample-software-engineering-at-google.md)
 
-
-## Where your should put your markdown file
-
-```
-$ tree -L 3
-.
-├── LICENSE
-├── logs
-│   ├── ${BookTitle}.md  ## <-- You should put your file
-│   └── template
-│       ├── sample-software-engineering-at-google.md
-│       └── template.md
-└── README.md
-
-2 directories, 4 files
-```
 
 
 ## Contact us
@@ -64,9 +48,9 @@ My Twitter ACCT is as follows:
 
 - 本リポジトリに用意した、テンプレート、サンプルとして用意した読書ログは「英語」ですが、「日本語」でもかまいません。
 
-  - [template.md](logs/template/template.md)
+  - [template.md](template.md)
 
-  - [[SAMPLE]Software Engineering at Google](logs/template/sample-software-engineering-at-google.md)
+  - [[SAMPLE]Software Engineering at Google](software-engineering-at-google/sample-software-engineering-at-google.md)
 
 
 ## License
