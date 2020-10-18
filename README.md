@@ -30,7 +30,7 @@ A. All you have to do is just three things:
 
 - [[SAMPLE]Software Engineering at Google](software-engineering-at-google/sample-software-engineering-at-google.md)
 
-
+- [Building Secure and Reliable Systems](building-secure-and-reliable-systems/building-secure-and-reliable-systems.md)
 
 ## Contact us
 
