@@ -1,14 +1,5 @@
 # Building Secure and Reliable Systems
 
-As long as the following is written, you can write the rest as you wish.
-
-- Book title
-
-- Your name
-
-- Chapters that I read at least a little.
-
-
 ## Notes per chapter
 
 - [01-The-Intersection-of-Security-and-Reliability.md](chapters/01-The-Intersection-of-Security-and-Reliability.md)
@@ -24,6 +15,19 @@ As long as the following is written, you can write the rest as you wish.
   - Author: [gkz](https://twitter.com/gkzvoice)
 
 - [06-Design-for-Understandability.md](chapters/06-Design-for-Understandability.md)
+  - Author: [gkz](https://twitter.com/gkzvoice)
+
+
+- [07-Design-for-a-Changing-Landscape.md](chapters/07-Design-for-a-Changing-Landscape.md)
+  - Author: [gkz](https://twitter.com/gkzvoice)
+
+- [08-Design-for-Resilience.md](chapters/08-Design-for-Resilience.md)
+  - Author: [gkz](https://twitter.com/gkzvoice)
+
+- [09-Design-for-Recovery.md](chapters/09-Design-for-Recovery.md)
+  - Author: [gkz](https://twitter.com/gkzvoice)
+
+- [10-Mitigating-Denial-of-Service-Attacks.md](chapters/10-Mitigating-Denial-of-Service-Attacks.md)
   - Author: [gkz](https://twitter.com/gkzvoice)
 
 ## Sources
