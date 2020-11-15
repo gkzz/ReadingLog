@@ -43,6 +43,7 @@ sources: [Updated Fundamentals of Software Architecture Images](http://fundament
 
 `connascence`
 - [connascence.io](https://connascence.io/)
+  > Connascence is a software quality metric & a taxonomy for different types of coupling.
 
 - con + nascence
 

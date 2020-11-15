@@ -24,3 +24,10 @@ This chapter says as follows:
 
 - Agile development shows us the importance of repeated design reviews.
   - What to do if the design documentation for the current system goes away??
+
+
+## 4-2. Notes
+`Robustness`
+- noun
+- meaning: the quality or condition of being strong and in good condition.
+  - e.g.: "the overall robustness of national and international financial systems"
