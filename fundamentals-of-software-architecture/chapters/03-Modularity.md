@@ -42,6 +42,8 @@ sources: [Updated Fundamentals of Software Architecture Images](http://fundament
   - Syn: unity, togetherness, solidarity, bond, sticking together, continuity
 
 `connascence`
+- [connascence.io](https://connascence.io/)
+
 - con + nascence
 
 `nascence`
