@@ -14,7 +14,7 @@ This chapter says as follows:
 
 ## 3-1-1. What impressed me 
 
-![](https://i.imgur.com/dJJ0vRh.png  =300x)
+![](https://i.imgur.com/dJJ0vRh.png)
 sources: [Updated Fundamentals of Software Architecture Images](http://fundamentalsofsoftwarearchitecture.com/images.html)
 
 ## 3-2. Notes
