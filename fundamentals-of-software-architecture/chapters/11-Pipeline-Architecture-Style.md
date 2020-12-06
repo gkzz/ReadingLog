@@ -10,7 +10,7 @@ See the following, if you want to see the memos of other chapters.
 ## 11-1. Overview
 
 This chaptes says as follows:
- - `pipeline architecture`
+ - `pipeline architecture style`
 
 ## 11-2. Notes
 
